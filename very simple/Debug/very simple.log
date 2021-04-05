@@ -1,0 +1,8 @@
+﻿  Enemy.cpp
+C:\Users\Matth\source\repos\very simple\very simple\player.h(23,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\Matth\source\repos\very simple\very simple\player.h(23,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Matth\source\repos\very simple\very simple\player.h(23,23): error C2238: unexpected token(s) preceding ';'
+  player.cpp
+C:\Users\Matth\source\repos\very simple\very simple\player.cpp(91,2): warning C4060: switch statement contains no 'case' or 'default' labels
+  Source.cpp
+  Generating Code...
